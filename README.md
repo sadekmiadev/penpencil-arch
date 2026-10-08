@@ -2,7 +2,7 @@
 
 ## Website: https://penpencilarch.com
 
-### Pen & Pencil Architecture — Architecture & Interior Design Studio
+### Pen & Pencil Architecture - Architecture & Interior Design Studio
 
 ---
 
@@ -51,7 +51,7 @@ The website works perfectly on mobile phones, tablets, and desktop computers. Ev
 
 ## Key Features of the Website
 
-- Fully dynamic content — everything is managed from a secure admin panel
+- Fully dynamic content - everything is managed from a secure admin panel
 - Online consultation booking with email notifications
 - Client review submission with approval workflow
 - SEO-optimized pages for better search visibility
@@ -65,7 +65,7 @@ The website works perfectly on mobile phones, tablets, and desktop computers. Ev
 
 I am **MD Sadek Mia**, a web developer based in Dhaka, Bangladesh. I design and build custom web applications for businesses that need a strong online presence.
 
-This website — Pen & Pencil Architecture — was designed and developed by me from scratch, including the frontend design, backend logic, database structure, admin panel, and deployment.
+This website - Pen & Pencil Architecture - was designed and developed by me from scratch, including the frontend design, backend logic, database structure, admin panel, and deployment.
 
 **What I do:**
 
