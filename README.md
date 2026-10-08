@@ -16,6 +16,100 @@ If you are looking for architectural design, interior solutions, or 3D visualiza
 
 ---
 
+## Project Folder Structure
+
+---
+
+penpencil/
+│
+├── app/
+│   ├── config/
+│   │   ├── config.php
+│   │   ├── database.php
+│   │   └── mail.php
+│   ├── controllers/
+│   │   ├── admin/
+│   │   └── frontend/
+│   ├── core/
+│   │   ├── Auth.php
+│   │   ├── CSRF.php
+│   │   ├── Mailer.php
+│   │   ├── Session.php
+│   │   └── Uploader.php
+│   ├── helpers/
+│   │   └── functions.php
+│   ├── lib/
+│   │   └── PHPMailer/
+│   ├── models/
+│   ├── views/
+│   │   ├── admin/
+│   │   │   ├── layouts/
+│   │   │   └── pages/
+│   │   ├── layouts/
+│   │   │   ├── footer.php
+│   │   │   ├── header.php
+│   │   │   └── nav.php
+│   │   └── pages/
+│   │       ├── about.php
+│   │       ├── book.php
+│   │       ├── contact.php
+│   │       ├── home.php
+│   │       ├── portfolio.php
+│   │       ├── project.php
+│   │       ├── service.php
+│   │       ├── services.php
+│   │       ├── submit-review.php
+│   │       └── thank-you.php
+│   └── bootstrap.php
+│
+├── database/
+│   └── migrations/
+│       └── schema.sql
+│
+├── docs/
+│
+├── public/
+│   ├── admin/
+│   │   ├── assets/
+│   │   │   ├── css/
+│   │   │   └── js/
+│   │   └── *.php (admin pages)
+│   ├── assets/
+│   │   ├── css/
+│   │   ├── fonts/
+│   │   ├── img/
+│   │   ├── js/
+│   │   └── uploads/
+│   ├── index.php
+│   ├── about.php
+│   ├── book.php
+│   ├── contact.php
+│   ├── contact-ajax.php
+│   ├── portfolio.php
+│   ├── project.php
+│   ├── service.php
+│   ├── services.php
+│   ├── submit-review.php
+│   ├── submit-review-action.php
+│   ├── thank-you.php
+│   ├── sitemap.php
+│   ├── robots.txt
+│   └── .htaccess
+│
+├── storage/
+│   ├── backups/
+│   ├── cache/
+│   └── logs/
+│
+├── vendor/
+│
+├── .env
+├── .gitignore
+├── .htaccess
+└── README.md
+
+----
+
 ## What You Will Find on the Website
 
 ### Homepage
